@@ -12,6 +12,7 @@ c) O(n) The function is being called recursively n times as it moves towards the
 
 ## Exercise II
 
+```
 def binary_search(building, floor_f):
     # bottom_floor = 0
     # top_floor = len(building) - 1
@@ -21,3 +22,4 @@ def binary_search(building, floor_f):
             # check the floor between the bottom floor and middle floor
         # if the egg doesn't break at floor_f
             # check the floor between the middle floor and the top floor
+```
